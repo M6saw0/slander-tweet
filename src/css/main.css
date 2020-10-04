@@ -1,0 +1,14 @@
+.main-body {
+    width: 80%;
+    margin: 0 auto 0 auto;
+}
+.title {
+    text-align: left;
+}
+
+a {
+    text-align: left;
+}
+a:hover {
+    background-color: #91989F;
+}

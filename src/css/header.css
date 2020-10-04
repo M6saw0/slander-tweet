@@ -1,0 +1,22 @@
+header {
+    padding: 0 0 0 1%;
+    /* position: fixed; */
+    top: 0;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #ffffff;
+}
+
+header .menu-icon {
+}
+
+header .header-title {
+    margin: 0 auto 0 30px;
+    text-decoration: none;
+    color: #51A8DD;
+    font-size: 30px;
+}
+header .header-title:hover {
+    background-color: #ffffff;
+}
