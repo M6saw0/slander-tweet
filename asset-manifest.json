@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/slander-tweet/static/css/main.514148c4.chunk.css",
+    "main.js": "/slander-tweet/static/js/main.e555b453.chunk.js",
+    "main.js.map": "/slander-tweet/static/js/main.e555b453.chunk.js.map",
+    "runtime-main.js": "/slander-tweet/static/js/runtime-main.59d0d256.js",
+    "runtime-main.js.map": "/slander-tweet/static/js/runtime-main.59d0d256.js.map",
+    "static/js/2.c24dfbcf.chunk.js": "/slander-tweet/static/js/2.c24dfbcf.chunk.js",
+    "static/js/2.c24dfbcf.chunk.js.map": "/slander-tweet/static/js/2.c24dfbcf.chunk.js.map",
+    "index.html": "/slander-tweet/index.html",
+    "precache-manifest.05b5a3747c15606ac94fc63db5aed87a.js": "/slander-tweet/precache-manifest.05b5a3747c15606ac94fc63db5aed87a.js",
+    "service-worker.js": "/slander-tweet/service-worker.js",
+    "static/css/main.514148c4.chunk.css.map": "/slander-tweet/static/css/main.514148c4.chunk.css.map",
+    "static/js/2.c24dfbcf.chunk.js.LICENSE.txt": "/slander-tweet/static/js/2.c24dfbcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.59d0d256.js",
+    "static/js/2.c24dfbcf.chunk.js",
+    "static/css/main.514148c4.chunk.css",
+    "static/js/main.e555b453.chunk.js"
+  ]
+}
